@@ -125,6 +125,8 @@ b.	Task: Identify how many spaces per class are available.
 c.	Task: Add button for customer to click so that their account details are stored, so that they can be contacted if spaces become available. 
 
 Question 3: 
+
+
  Draw a list of key requirements ·
 -	Allow user to create an account
 -	Allow user or users to view range of films 
@@ -135,10 +137,15 @@ Question 3:
 -	Allow user to input payment details or log-on via PayPal to pay for their film tickets. 
  What are your main considerations? ·
 -	The scalability of the product. 
+
+
  What would be your common or biggest problems? · 
+ 
 -	Customers double booking a viewing
 -	Customer closing the browser before the payment has been taken
 -	If the project is scalable, could be very slow due to a high volume of traffic, particularly if the cinema was part of a chain where lots of users would be trying to book at any one time. 
+
+
 What components or tools would you potentially use? · 
 	On the client side, they will created in languages such as HTML, CSS and JavaScript, which would communicate with the server. This would link with databases that lists the movie name, movie length, movie price, total number of tickets available, number of tickets still available to purchase, seats that are still available to sit in.
 
