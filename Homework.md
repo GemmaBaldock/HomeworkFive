@@ -41,70 +41,87 @@ These are the people in the scrum team that create deliverables (which is the pr
 
 Question 2: 
 As an administrator:
--	I want to add class names so that I can give customers the full selection of classes offered.
-  o	Task: Add class names
-  o	Task: Add class hours
-  o	Task: Curate a class calendar with these details on viewable to the customer and staff.
--	I want to append class names, so that I am able to keep relevant information on the website.
-  o	Task: ability for website to have class names changed
-  o	Task: make sure it updates class on calendar
+1.	I want to add class names so that I can give customers the full selection of classes offered.
+a.	Task: Add class names
+b.	Task: Add class hours
+c.	Task: Curate a class calendar with these details on viewable to the customer and staff.
+2.	I want to append class names, so that I am able to keep relevant information on the website.
+a.	Task: ability for website to have class names changed
+b.	Task: make sure it updates class on calendar
 
--	I want to add types of yoga classes, so that the customer gets to choose from the selection of classes offered. 
-o	Task: Create yoga class categories
-o	Task: Ability to add yoga class categories
-o	Task: Ability to delete yoga class categories
+3.	I want to add types of yoga classes, so that the customer gets to choose from the selection of classes offered. 
+a.	Task: Create yoga class categories
+b.	Task: Ability to add yoga class categories
+c.	Task: Ability to delete yoga class categories
 
--	I want to see the most popular type classes, so that I can prepare in advance to meet the demands of the clients. 
-o	Task: List the number of clients subscribed to each class type
-o	Task: Arrange the number of clients subscribed to each type in descending order, with the most popular at the top
+4.	I want to see the most popular type classes, so that I can prepare in advance to meet the demands of the clients. 
+a.	Task: List the number of clients subscribed to each class type
+b.	Task: Arrange the number of clients subscribed to each type in descending order, with the most popular at the top
 
--	I want to see the number of total users so that I know how many paying members I have, and track if I am losing/gain customers.
-o	Task: identify number of users with registered accounts and print that number. 
+5.	I want to see the number of total users so that I know how many paying members I have, and track if I am losing/gain customers.
+a.	Task: identify number of users with registered accounts and print that number. 
 
--	I want to see the most popular times for classes, so that I could add more classes on at that time and generate more revenue for the business.
-  o	Task: Track when a user logs on
-  o	Task: Track when a user logs off
-  o	Task: Track if a user deletes their account
-  o	Task: Track if a user creates an account
-  o	Task: Track every minute which users are logged on.
-  o	Task: Identify the period of time where the most amounts of users are logged in at specific minute.
+6.	I want to see the most popular times for classes, so that I could add more classes on at that time and generate more revenue for the business.
+a.	Task: Track when a user logs on
+b.	Task: Track when a user logs off
+c.	Task: Track if a user deletes their account
+d.	Task: Track if a user creates an account
+e.	Task: Track every minute which users are logged on.
+f.	Task: Identify the period of time where the most amounts of users are logged in at specific minute.
 
--	I want the user to be able to fix account issues (e.g username and password) so that customers are able to successfully book a class.
-  o	Task: Create ‘report an issue with account’ button
-  o	Task: Create ‘reset password’ button
-  o	Task: Create ‘reset username’ button
+7.	I want the user to be able to fix account issues (e.g username and password) so that customers are able to successfully book a class.
+a.	Task: Create ‘report an issue with account’ button
+b.	Task: Create ‘reset password’ button
+c.	Task: Create ‘reset username’ button
 
 As a visitor:
--	I want to be able to create my account so that I can sign up for classes
-  o	Task: create sign-up page for visitor
-  o	Task: create form for visitor to enter details
--	I want to be able to report any issues with the site, so that I can effectively use the website to sign up for classes.
-  o	Task: Create ‘report an issue with account’ button
-  o	Task: Create ‘reset password’ button
-  o	Task: Create ‘reset username’ button
+1.	I want to be able to create my account so that I can sign up for classes
+a.	Task: create sign-up page for visitor
+b.	Task: create form for visitor to enter details
+2.	I want to be able to report any issues with the site, so that I can effectively use the website to sign up for classes.
+a.	Task: Create ‘report an issue with account’ button
+b.	Task: Create ‘reset password’ button
+c.	Task: Create ‘reset username’ button
 
 
 
 As a user:
--	I want to be able to log in with my email and password, so that I can book my classes.
-  o	Task: create user sign-in form
--	I want to be able to reset my username and password, so that I can gain access to my account and book classes. 
-  o	Task: create reset button for username
-  o	Task: create reset button for password
+1.	I want to be able to log in with my email and password, so that I can book my classes.
+a.	Task: create user sign-in form
+2.	I want to be able to reset my username and password, so that I can gain access to my account and book classes. 
+a.	Task: create reset button for username
+b.	Task: create reset button for password
 
--	I want to be able to have a share to social media (or email) option so that I can share the classes with people who may be interested.
-  o	Task: Create share button with social media icons
-  o	Task: Enable sign-in of social media accounts to allow for sharing
--	I want to be able to select the yoga class that I want to partake in, so that I can the yoga class to my schedule.
-  o	Task: create calendar of available classes for yoga
-  o	Task: create ability to select class 
--	I want to be able to select multiple yoga classes across the week, so that I can add multiple yoga classes to my schedule.
-  o	Task: create calendar of available classes for yoga
-  o	Task: create ability to select class 
+3.	I want to be able to have a share to social media (or email) option so that I can share the classes with people who may be interested.
+a.	Task: Create share button with social media icons
+b.	Task: Enable sign-in of social media accounts to allow for sharing
+4.	I want to be able to select the yoga class that I want to partake in, so that I can the yoga class to my schedule.
+a.	Task: create calendar of available classes for yoga
+b.	Task: create ability to select class 
+5.	I want to be able to select multiple yoga classes across the week, so that I can add multiple yoga classes to my schedule.
+a.	Task: create calendar of available classes for yoga
+b.	Task: create ability to select class 
 
--	I want to see how many spaces are remaining for each session, so that I can see if there is enough space for me to attend.
--	I want to see how much days/hours I have until my next session, so that I know the how long I have until I need to leave for yoga.
--	I want two-factor authentication, so that I know my account is secure.
--	I want to be able to remove myself from a yoga class, so that I am able to 
--	I want to sign up for a waitlist for a class (if it has reached maximum capacity) so that I can get a spot in the yoga class if someone drops out.
--	I want to see a full-class list and description so that I can choose which classes I would like to take. 
+6.	I want to see how many spaces are remaining for each session, so that I can see if there is enough space for me to attend.
+a.	Task: Identify number of clients enrolled for one session.
+b.	Task: Identify how many spaces per class are available.
+c.	Task: Use the number of clients enrolled and spaces available to display number of spots available.
+d.	Task: Display the spots available for user to see. 
+
+7.	I want to see how much days/hours I have until my next session, so that I know the how long I have until I need to leave for yoga.
+a.	Task: Identify the current date
+b.	Task: Identify session customer is enrolled in
+c.	Task: Identify how many hours and days there are between the current date and next session to work out time until next sessions.
+d.	Task: display button for customer to view number of hours/days until next session.
+8.	I want two-factor authentication, so that I know my account is secure.
+a.	Task: Identify two-factor authentication system to use
+b.	Task: Implement two-factor authentication system 
+9.	I want to be able to remove myself from a yoga class, so that I am able to reduce the number of classes I take.
+a.	Task: Display classes enrolled for customer.
+b.	Task: Add button to remove customer from yoga class. 
+10.	I want to sign up for a waitlist for a class (if it has reached maximum capacity) so that I can get a spot in the yoga class if someone drops out.
+a.	Task: Identify number of clients enrolled for one session.
+b.	Task: Identify how many spaces per class are available.
+c.	Task: Add button for customer to click so that their account details are stored, so that they can be contacted if spaces become available. 
+
+
