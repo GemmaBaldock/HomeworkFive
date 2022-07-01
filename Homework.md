@@ -38,3 +38,34 @@ The role of the product owner is to maximise product value and to manage to the 
 Development team (information obtained from https://scrumguides.org/scrum-guide.html#developers and https://www.qrpinternational.be/blog/glossary/who-is-the-scrum-developer-role-and-responsabilities/#:~:text=The%20Scrum%20Developer%20is%20the,Master%20and%20the%20Development%20Team):
 
 These are the people in the scrum team that create deliverables (which is the product or service). They create/plan the sprint task (the sprint backlog). They ensure that they are creating a quality product, by sticking to the definition of done, which is the standard required for the product/service to be releasable. 
+
+Question 2:
+
+Question 2: 
+As an administrator:
+-	I want to add class names so that I can give customers the full selection of classes offered.
+-	I want to append class names, so that I am able to keep relevant information on the website.
+-	I want to add types of yoga classes, so that the customer gets to choose from the selection of classes offered (what type of yoga they want). 
+-	I want to see the most popular type classes, so that I can prepare in advance to meet the demands of the clients. 
+-	I want to see the number of total users so that I know how many paying members I have, and track if I am losing/gain customers.
+-	I want to see the most popular times for classes, so that I could add more classes on at that time and generate more revenue for the business.
+-	I want the user to be able to fix account issues (e.g username and password) so that customers are able to successfully book a class.
+
+As a visitor:
+-	I want to be able to create my account so that I can sign up for classes
+-	I want to be able to report any issues with the site, so that I can effectively use the website to sign up for classes.
+-	I want to create a login with an email and a password, so that I can have my own account to sign up for classes.
+
+As a user:
+-	I want to be able to log in with my email and password, so that I can book my classes.
+-	I want to be able to reset my username and password, so that I can gain access to my account and book classes. 
+-	I want to be able to have a share to social media (or email) option so that I can share the classes with people who may be interested.
+-	I want to be able to select the yoga class that I want to partake in, so that I can the yoga class to my schedule.
+-	I want to be able to select multiple yoga classes across the week, so that I can add multiple yoga classes to my schedule.
+-	I want to see how many spaces are remaining for each session, so that I can see if there is enough space for me to attend.
+-	I want to see how much days/hours I have until my next session, so that I know the how long I have until I need to leave for yoga.
+-	I want two-factor authentication, so that I know my account is secure.
+-	I want to be able to remove myself from a yoga class, so that I am able to 
+-	I want to sign up for a waitlist for a class (if it has reached maximum capacity) so that I can get a spot in the yoga class if someone drops out.
+-	I want to see a full-class list and description so that I can choose which classes I would like to take. 
+
