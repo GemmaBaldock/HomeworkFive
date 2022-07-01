@@ -147,6 +147,7 @@ Question 3:
 
 
 What components or tools would you potentially use? · 
+
 	On the client side, they will created in languages such as HTML, CSS and JavaScript, which would communicate with the server. This would link with databases that lists the movie name, movie length, movie price, total number of tickets available, number of tickets still available to purchase, seats that are still available to sit in.
 
 
